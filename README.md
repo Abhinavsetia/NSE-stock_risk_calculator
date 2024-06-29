@@ -9,7 +9,7 @@ Primary Azure Technology: App Service, Azure Monitor, Azure Active Directory
 TO USE THE PROJECT:
 
 Clone the project using:  
-git clone https://github.com/Abhinavsetia/Stock_risk_calculator
+git clone https://github.com/Abhinavsetia/Stock_risk_calculator.git
 
 Change your path to the project in cli
 
